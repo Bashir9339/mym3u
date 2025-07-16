@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="test",360° (HD ready)
+https://vsd255.okcdn.ru/dash/stream_7937441663606/stream.manifest/sig/IskWBGiXEgs/expires/1752780080232/srcIp/37.114.160.199/urls/45.136.20.47/clientType/0/srcAg/CHROME/mid/9313862491766/stream-high.jidx?_rnd=684844734
+
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360° (HD ready)
