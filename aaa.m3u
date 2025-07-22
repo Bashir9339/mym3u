@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="Azərbaycan",Alvin Channel TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница!
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
@@ -36,6 +39,9 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="Общественные",ПРНК (HD ready)
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Общественные",Рен ТВ Int (HD ready)
 https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 (HD)
