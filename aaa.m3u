@@ -208,8 +208,8 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кинозал",Кино ТВ (EDTV)
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="cinema" tvg-logo="https://ct-bank.digitalrussia.tv/files/2023/05/cinetv_3_.svg" group-title="Кинозал",Cinema
-https://s.xittv.net/56y01e_932JjJWV7eWHL4A/104/1753227165/index.m3u8
+#EXTINF:-1 tvg-id="kinocat" tvg-logo="https://xittv.net/img/can/138.png" group-title="Кинозал",Kino cat
+https://s.xittv.net/6rpzUDSk8KV6ufEk-RZXRw/124/1753228098/index.m3u8
 #EXTINF:-1 tvg-id="strashnoe" tvg-logo="https://strashnoehd.ru/style/logo.png" group-title="Кинозал",Страшное HD
 https://s.xittv.net/FSI1oCrNLzL5A2Y4A7Og1A/216/1753227314/index.m3u8
 
