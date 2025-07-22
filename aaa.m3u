@@ -5,6 +5,8 @@ https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.
 
 #EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="Azərbaycan",CBC Sport!
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 tvg-id="Arb24" tvg-logo="https://arb24.az/frontend/assets/img/global/header/logo.svg" group-title="Azərbaycan",Arb 24
+https://stream.atv.az/HLS3/streams/arb24.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:-1 tvg-id="Atv" tvg-logo="https://atv.az/logo.png" group-title="Azərbaycan",Atv!
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
