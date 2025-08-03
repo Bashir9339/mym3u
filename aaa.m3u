@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:IPTVru
 
-
+#EXTINF:-1 tvg-id="kinoooo" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",kinooo
+https://sierra.cdn.cinemap.cc/movies/81037dbbe1133368e55c5f8077bc7881688c8ed3/81f4ad38a62576f60fab19a04a7c6f94:2025080400/720.mp4:hls:manifest.m3u8
 
 #EXTINF:-1 tvg-id="İtv" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai televiziya
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
