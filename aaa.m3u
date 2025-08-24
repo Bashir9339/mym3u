@@ -19,7 +19,11 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b223154
 
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница!
+https://tvcdnpotok.com/RnYKyOX853Br3w2SUSWlcA/106/1756068201/index.m3u8
+
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
+
+
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал (HD ready)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360° (HD ready)
