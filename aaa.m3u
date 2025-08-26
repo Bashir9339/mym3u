@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",Robot 4
-https://shadow.cloud.obrut.stream/movies/d54789f22e8d84d418eeb680d89488b5d64459c1/f25d0257f0dc45065eb7cd51a8e7f4e8:2025082421/720.mp4:hls:manifest.m3u8
+https://cloud.kodik-cdn.com/tvseries/c189ff1cdd0cb9bafb370320d0846a4249c291b6/e5dd67dc07fa2921bb46d9a71d1ef5c9:2025082704/360.mp4:hls:manifest.m3u8
 
 #EXTINF:-1 tvg-id="İtv" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai televiziya
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
