@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",Robot 4
-https://cloud.kodik-storage.com/useruploads/6e7e8c43-9267-4d4d-acef-57f91f036d0f/0179f036cdab29c7ac8a06d96c4783fd:2025090606/720.mp4:hls:manifest.m3u8
+https://cloud.kodik-storage.com/useruploads/f5253f9d-3b05-4f92-8267-4d68f91b07b1/4b87f48efadff8389667213920cf3919:2025090720/720.mp4:hls:manifest.m3u8
 
 #EXTINF:-1 tvg-id="İtv" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai televiziya
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
@@ -19,7 +19,7 @@ https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.m3u8?token=7b223154
 
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница1!
-https://tvcdnpotok.com/RnYKyOX853Br3w2SUSWlcA/106/1756068201/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 
 https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 
