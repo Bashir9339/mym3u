@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",Robot 4
-https://milanium.cloud.kodik-storage.com/useruploads/cb076042-a942-4042-8e3d-0d11b6df4654/579284b5660bed6ddc78a790c430ff16:2025091106/720.mp4:hls:manifest.m3u8
+https://cloud.kodik-storage.com/useruploads/e3b153bb-b40f-4a79-b61e-d34661db3a9f/66c7b2e08640c2cd58184f6896200850:2025091204/720.mp4:hls:manifest.m3u8
 #EXTINF:-1 tvg-id="İtv" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai televiziya
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="Azərbaycan",CBC Sport!
