@@ -3,8 +3,17 @@
 
 
 
-#EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",Robot 4
-https://cloud.kodik-storage.com/useruploads/22d5c388-c08e-407f-92a3-ebffdfd1c0a9/4e335a0222311076b6a65ddab0fa2836:2025091304/720.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",kim 1
+https://cloud.kodik-storage.com/useruploads/22d5c388-c08e-407f-92a3-ebffdfd1c0a9/1a1a405e360b06e583106531384ebcf7:2025091503/720.mp4:hls:manifest.m3u8
+
+#EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",kim 2
+https://cloud.kodik-storage.com/useruploads/539e3673-768e-405b-93ba-81fdc8900b72/0a4604cab27d4570644a64284bd1c19c:2025091503/720.mp4:hls:manifest.m3u8
+
+#EXTINF:-1 tvg-id="№bankids" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="USA",kim 3
+https://cloud.kodik-storage.com/useruploads/9759299b-1480-4a03-a0c7-5ad5d29f6b08/4159e5eeada641659e9b0a7bd6ac5c5c:2025091503/720.mp4:hls:manifest.m3u8
+
+
+
 #EXTINF:-1 tvg-id="İtv" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai televiziya
 https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
 #EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="Azərbaycan",CBC Sport!
