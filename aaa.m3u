@@ -2,8 +2,8 @@
 #PLAYLIST:IPTVru
 
 
-#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 2
-https://sierra.cdn.cinemap.cc/tvseries/87fac1e4fda503641c0362381379b494cb1b3613/385367abd2bfbd486e7fd4c02cd9b067:2025101620/720.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 4
+https://sierra.cdn.cinemap.cc/tvseries/1f881c4a352f4ae6a6786e7160736db3f73de473/866d8190bb20f87c985e6467f8623207:2025101622/720.mp4:hls:manifest.m3u8
 
 #EXTINF:-1 tvg-id="Arisat" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 3
 https://sierra.cdn.cinemap.cc/tvseries/8af57679383e6b8acffd00f8a81d426cd83e5c86/603ee85c2285871af1f7dca53d179b36:2025101620/720.mp4:hls:manifest.m3u8
