@@ -2,10 +2,10 @@
 #PLAYLIST:IPTVru
 
 
-#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 
-https://v206.cinemap.cc/md5(2YbHAZ0VGQC8QKzVkTVHRQ%2C1760910261)/tvseries/c9f259944f64ec0ae50abdd367ee067c2d6a58ab/ffb19ba56d45009bfb3a48e22bd152a9:2025102006/720.mp4:hls:manifest.m3u8
-#EXTINF:-1 tvg-id="Arisat" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 9
-https://v206.cinemap.cc/md5(rcA7EjclS7vNmsOYViJD8g%2C1760910261)/tvseries/937918a65f5efa86fcd70534e8dc427e8e1a03e5/056e8c8fcf1c641a1612326a4c3d5490:2025102006/720.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 12
+https://v206.cinemap.cc/md5(PZEv6KQA_TXcAvscTbEPCw%2C1761081480)/tvseries/d69bc90d04d95d340567065c11e71e528eb406ee/c39b55ffba86b1a5405423599b8d09af:2025102406/720.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-id="Arisat" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 13
+https://v206.cinemap.cc/md5(P4a5pLZXZMqn8cPPXfesig%2C1761081480)/tvseries/805a2d8c9efe56c5089d4a33d319a0a75273ff7a/91be2033723e048cd47202136c7c06e7:2025102406/720.mp4:hls:manifest.m3u8
 
 
 
