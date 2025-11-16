@@ -2,8 +2,8 @@
 #PLAYLIST:IPTVru
 
 
-#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 14
-https://v206.cinemap.cc/md5(rVz42abefrG5hRCphcWceQ%2C1761423407)/movies/db963027d8935df20d26e4c98756a9582959ec9e/a28a4bbfe562b8d4c0b5fd42fe54247b:2025102706/hls.m3u8
+#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",koroleva 10 seriya
+https://phoenix.cloud.kodik-storage.com/useruploads/b59e3355-937a-4531-96b0-2280aad5fe1f/6b17c0e839a5c4a313e2ae0429a32095:2025111623/720.mp4:hls:manifest.m3u8
 #EXTINF:-1 tvg-id="Arisat" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",svyaz 13
 https://v206.cinemap.cc/md5(P4a5pLZXZMqn8cPPXfesig%2C1761081480)/tvseries/805a2d8c9efe56c5089d4a33d319a0a75273ff7a/91be2033723e048cd47202136c7c06e7:2025102406/720.mp4:hls:manifest.m3u8
 
