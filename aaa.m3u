@@ -2,10 +2,9 @@
 #PLAYLIST:IPTVru
 
 
-#EXTINF:-1 tvg-id="Arisa" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",3 seriya
-https://cloud.kodik-storage.com/useruploads/57355474-cbac-49fd-aaa0-a1dcdac1ab47/0e25b7525ac484a53a5b1691c7f5a6fe:2025111905/720.mp4:hls:manifest.m3u8
-#EXTINF:-1 tvg-id="Arisat" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",4 seriya
-https://cloud.kodik-storage.com/useruploads/bd370db2-f2d8-48cc-af2f-89b0b61d420f/1e708ac889e214b9d9bca0e7a84a913a:2025111905/720.mp4:hls:manifest.m3u8
+#EXTINF:-1 tvg-id="xishnik" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",xishnik
+https://cfnd.cinemap.cc/1766098079-TFMZYlxqdf2al4juZJJLhxI54HVUc6dq2QV8%2F7XIVFw%3D/movies/0320a99f11879b88ae51b0f61636b85d5d83ca01/51a99e8d1086f1867be15f48cf544337:2025121822/hls.m3u8
+
 
 
 
